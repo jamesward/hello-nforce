@@ -9,7 +9,6 @@
     "node": "0.12.x"
   },
   "dependencies": {
-    "bluebird": "^2.10.0",
     "express": "~4.12.2",
     "hbs": "~2.9.0",
     "nforce": "^1.2.3",
